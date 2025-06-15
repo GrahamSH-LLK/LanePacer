@@ -21,6 +21,7 @@ The general consensus was that this is definitely an available product, appropri
 I created a drawing in Onshape to communicate the length and use case.
 ![image](https://github.com/user-attachments/assets/71dd48a0-1a26-4791-9e1d-502a37c75ca3)
 
+**Total time spent: 3h**
 
 ## June 15th - Power and Driving
 
@@ -49,4 +50,5 @@ Since I still need support for WiFi/Bluetooth connection for control, I'm adding
 
 ![lanepacer drawio](https://raw.githubusercontent.com/GrahamSH-LLK/LanePacer/b294c3a648f139af1e34843678cf5fcd9e2c41a6/lanepacer.drawio.svg)
 
+**Total time spent: 2h**
 
